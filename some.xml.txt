@@ -1,0 +1,8 @@
+<student>
+	<grades>
+		<math>97</math>
+		<physics>99</physics>
+		<history>0</history>
+		<english>90</english>
+		<psychology>90/<psychology>
+	</grades>
