@@ -1,0 +1,24 @@
+{
+name:"ort",
+    classes:[
+        {
+            name:"myname"
+            students:[
+                {
+                    math:100,
+                    name:"Arik",
+                    assembly:100,
+                    fullstack:13
+                },
+        
+            {
+                    name:"Arik",
+                    math:95,
+                    assembly:100,
+                    fullstack:90
+                }
+            ]
+        }
+    
+    ]
+}
